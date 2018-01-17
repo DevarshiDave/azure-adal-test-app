@@ -37,7 +37,7 @@
 
       adalAuthenticationServiceProvider.init({
         // clientId is the identifier assigned to your app by Azure Active Directory.
-        clientId: "150c224e-6fd9-4216-bce5-8204bc107206",
+        clientId: "xxxx-xxxx-xxxx-xxxx",
         endPoints: {
           "https://graph.microsoft.com": "https://graph.microsoft.com"
         },
